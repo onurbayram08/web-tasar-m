@@ -1,0 +1,58 @@
+.container {
+    text-align: center;
+}
+
+#header {
+    background-color: red;
+    text-align: center;
+    height: 80px
+}
+
+li {
+    display: inline;
+    font-size: 30px;
+    padding: 20px;
+    color: cyan
+}
+
+li:hover {
+    color: white;
+}
+
+#logo {
+    height:45px;
+    margin-top: inherit;
+}
+
+#orta {
+    width: 1500px;
+    align-content: center;
+}
+
+#yoreler {
+    background-color: black;
+
+}
+
+#footer {
+    text-align: center;
+    background-color: black;
+}
+
+p {
+    color: ghostwhite;
+    font-size: 25px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#content2 {
+    background-color: coral
+}
+
+#profil {
+    width: 550px;
+}
